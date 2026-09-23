@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 但是我现在**在学习**咋开发 APP 哦, 略微懂点 **Python**的皮毛. 
 
-APP这一块的话……我倒是用过 APP Appinventer，不过很多年没接触过了
+APP这一块的话……我倒是用过 APP Inventer，不过很多年没接触过了
 
 [点此查看我的 **B站主页** 嗷~](https://space.bilibili.com/3494367553653334)
 
