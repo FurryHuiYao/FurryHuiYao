@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+一位选择了 IoT 专业的技校生. 思维比较单一, 脾气很容易暴躁, 容易冲动. 
+
+不会画画, 完全不会. 完全不会写代码, 任何编程语言都不会.
